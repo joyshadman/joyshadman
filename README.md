@@ -4,7 +4,7 @@
 ## Front End Developer
 
 # 💫 About Me:
-🌱 Advance Front Stack Developer. <br>🚀 Working on Ecommerce project. <br>📫 Reach me: joyshadman@gmail.com
+Passionate Front-End Developer specializing in crafting engaging user experiences. Currently building Website. Let's connect: joyshadman@gmail.com
 
 
 ## 🌐 Socials:
