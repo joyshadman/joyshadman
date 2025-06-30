@@ -1,7 +1,7 @@
 
 
 # Joy Shadman
-## Full End Developer
+## Full Stack Developer
 
 # 💫 About Me:
 
