@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-Passionate Front-End Developer specializing in crafting engaging user experiences. Currently building Website.
+Passionate Full Stack Developer specializing in crafting engaging user experiences. Currently building Website.
 
 
 ## 🌐 Socials:
