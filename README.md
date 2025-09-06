@@ -6,8 +6,15 @@
 
 ---
 
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x250.png?text=Joy+Shadman+-+Full+Stack+Developer" alt="Banner" />
+</p>
+
+---
+
 ## 🌐 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/joy-shadman-30067526a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -44,7 +51,10 @@
 ---
 
 ## 🏆 Profile Views  
-[![](https://visitcount.itsvg.in/api?id=joyshadman&icon=0&color=0)](https://visitcount.itsvg.in)  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=joyshadman&icon=0&color=0" alt="Profile Views"/>
+</p>  
 
 ---
+
 ✨ *Always open to collaborations, exciting projects, and learning opportunities!*  
