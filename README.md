@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Joy Shadman  
 
 ### 🚀 Full Stack Developer | Passionate about Crafting Engaging User Experiences  
 
