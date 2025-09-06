@@ -8,7 +8,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x250.png?text=Joy+Shadman+-+Full+Stack+Developer" alt="Banner" />
+  <img src="https://imgbox.com/30Fv2tqd" alt="Banner" />
 </p>
 
 ---
