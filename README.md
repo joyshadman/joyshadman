@@ -1,13 +1,11 @@
+<!-- Banner at Top -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joyshadman/joyshadman/main/img.jpg" alt="Banner" width="100%"/>
+</p>
+
 <h3 align="center">🚀 Full Stack Developer | Passionate about Crafting Engaging User Experiences</h3>
 
 <p align="center">💡 Currently focused on building modern, responsive, and scalable websites with seamless UI/UX.</p>
-
----
-
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joyshadman/joyshadman/main/img.jpg" alt="Banner" width="900"/>
-</p>
 
 ---
 
