@@ -8,7 +8,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://imgbox.com/30Fv2tqd" alt="Banner" />
+  <img src="img.jpg" alt="Banner" />
 </p>
 
 ---
