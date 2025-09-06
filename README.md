@@ -73,11 +73,4 @@
 
 ---
 
-## 🏆 Profile Views  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=joyshadman&icon=0&color=0" alt="Profile Views"/>
-</p>  
-
----
-
 <h4 align="center">✨ Always open to collaborations, exciting projects, and learning opportunities!</h4>
